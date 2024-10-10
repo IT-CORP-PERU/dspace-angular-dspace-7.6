@@ -2405,10 +2405,10 @@
 
 
   // "footer.copyright": "copyright © 2002-{{ year }}",
-  "footer.copyright": "copyright © 2002-{{ year }}",
+  "footer.copyright": "© {{ year }}",
 
   // "footer.link.dspace": "DSpace software",
-  "footer.link.dspace": "Software DSpace",
+  "footer.link.dspace": "EESP Marcos Duran Martel",
 
   // "footer.link.lyrasis": "LYRASIS",
   "footer.link.lyrasis": "LYRASIS",
